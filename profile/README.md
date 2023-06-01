@@ -24,7 +24,7 @@ C - Ditech is an Android application that aims to detect diseases in chickens th
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://kaggle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original-wordmark.svg" alt="kaggle" height="50"/> </a> 
 
-Or if you want to see the detail about model development stuff, please check on [ML repository](https://github.com/C-Ditech/ML)
+Or if you want to see the detail about model development stuff, please check on [ML repository &rarr;](https://github.com/C-Ditech/ML)
 
 ### Cloud Computing ☁️
 > <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://idolstarastronomer.com/images/cloud_platform.png" alt="GoogleCloudPlatform"  height="40"/> </a> 
@@ -34,7 +34,7 @@ Or if you want to see the detail about model development stuff, please check on 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vscode" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
-Or if you want to see the detail about cloud development and architecture, please check on [CC repository](https://github.com/C-Ditech/CC)
+Or if you want to see the detail about cloud development and architecture, please check on [CC repository &rarr;](https://github.com/C-Ditech/CC)
 
 ### Mobile Development 📱
 > <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/kotlin-logo.png" alt="kotlin" width="40" height="40"/> </a>
@@ -43,7 +43,7 @@ Or if you want to see the detail about cloud development and architecture, pleas
 <a href="https://figma.com/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/figma-logo.png" alt="figma" width="25" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
-Or if you want to see the detail about mobile development, please check on [MD repository](https://github.com/C-Ditech/MD)
+Or if you want to see the detail about mobile development, please check on [MD repository &rarr;](https://github.com/C-Ditech/MD)
 
 ## Project Plan 📌
 See the [projects github &rarr;](https://github.com/orgs/C-Ditech/projects/1) for a list of plan and the timeline for this project.
@@ -52,13 +52,13 @@ See the [projects github &rarr;](https://github.com/orgs/C-Ditech/projects/1) fo
 All code contributions - including those of people having commit access - must go through a pull request and be approved by a core developer before being merged. This is to ensure a proper review of all the code. We truly ❤️ pull requests! Feel free to open pull request.
 
 ## Security 🛡️
-For security issues, kindly email us at [raihan](mailto:raihanramdani41@yahoo.com) instead of posting a public issue on GitHub or other contributor.
+For security issues, kindly email us at [raihan &rarr;](mailto:raihanramdani41@yahoo.com) instead of posting a public issue on GitHub or other contributor.
 
 ## Code of Conduct ⚖️
-This project has adopted a Code of Conduct that we expect project participants to adhere to. Please read [the code of conduct](../CODE_OF_CONDUCT.md) so that you can understand what actions will and will not be tolerated.
+This project has adopted a Code of Conduct that we expect project participants to adhere to. Please read [the code of conduct &rarr;](../CODE_OF_CONDUCT.md) so that you can understand what actions will and will not be tolerated.
 
 ## License ✔️
-All repositories are available under the [MIT License](../LICENSE).
+All repositories are available under the [MIT License &rarr;](../LICENSE).
 
 ## Member 👱‍♂️
 | CapstoneID | Name | Role | Contact |
