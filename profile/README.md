@@ -48,9 +48,6 @@ Or if you want to see the detail about mobile development, please check on [MD r
 ## Project Plan 📌
 See the [projects github &rarr;](https://github.com/orgs/C-Ditech/projects/1) for a list of plan and the timeline for this project.
 
-## Dataset 🖼️
-- Poultry Diseases Detection (Kausthub Kannan, 2023) in [Kaggle](https://www.kaggle.com/datasets/kausthubkannan/poultry-diseases-detection)
-
 ## Contributing 🤝
 All code contributions - including those of people having commit access - must go through a pull request and be approved by a core developer before being merged. This is to ensure a proper review of all the code. We truly ❤️ pull requests! Feel free to open pull request.
 
@@ -61,14 +58,14 @@ For security issues, kindly email us at [raihan](mailto:raihanramdani41@yahoo.co
 This project has adopted a Code of Conduct that we expect project participants to adhere to. Please read [the code of conduct](../CODE_OF_CONDUCT.md) so that you can understand what actions will and will not be tolerated.
 
 ## License ✔️
-This repository is available under the [MIT License](../LICENSE).
+All repositories are available under the [MIT License](../LICENSE).
 
 ## Member 👱‍♂️
 | CapstoneID | Name | Role | Contact |
 | :---: | :---: | :---: | :---: |
-M151DSX2135 | **Alif Fadhlurrahman Hadi** | @MokaChaos
-M286DSX1454 | **Muhammmad Ammar Nabil** | @manabil
-C172DSX2795 | **Raihan Ramdani Hartono** | @raihanramdd
-C172DSX3019 | **David Dovovan M S** |
-A042DKX3909 | **Bagus Karunia Fajar** | @baguskf
-A042DKX4487 | **Bagus Setiawan** | @BagusStn
+M151DSX2135 | **Alif Fadhlurrahman Hadi** | Machine Learning | <a href="isi_ini_guys"><img src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" width="30" height="30"></a> <a href="isi_ini_guys"><img src="https://logospng.org/download/linkedin/logo-linkedin-icon-4096.png" width="30" height="30"></a>
+M286DSX1454 | **Muhammmad Ammar Nabil** | Machine Learning | <a href="isi_ini_guys"><img src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" width="30" height="30"></a> <a href="isi_ini_guys"><img src="https://logospng.org/download/linkedin/logo-linkedin-icon-4096.png" width="30" height="30"></a>
+C172DSX2795 | **Raihan Ramdani Hartono** | Cloud Computing | <a href="isi_ini_guys"><img src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" width="30" height="30"></a> <a href="isi_ini_guys"><img src="https://logospng.org/download/linkedin/logo-linkedin-icon-4096.png" width="30" height="30"></a>
+C172DSX3019 | **David Dovovan M S** | Cloud Computing | <a href="isi_ini_guys"><img src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" width="30" height="30"></a> <a href="isi_ini_guys"><img src="https://logospng.org/download/linkedin/logo-linkedin-icon-4096.png" width="30" height="30"></a>
+A042DKX3909 | **Bagus Karunia Fajar** | Mobile Development | <a href="isi_ini_guys"><img src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" width="30" height="30"></a> <a href="isi_ini_guys"><img src="https://logospng.org/download/linkedin/logo-linkedin-icon-4096.png" width="30" height="30"></a>
+A042DKX4487 | **Bagus Setiawan** | Mobile Development | <a href="isi_ini_guys"><img src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" width="30" height="30"></a> <a href="isi_ini_guys"><img src="https://logospng.org/download/linkedin/logo-linkedin-icon-4096.png" width="30" height="30"></a>
