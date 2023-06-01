@@ -1,6 +1,6 @@
 <div align="center">
   <h1>C-Ditech 🐔</h1>
-  <img src="../assets/logo.png">
+  <img src="../assets/logo.png?raw=true">
 </div>
 
 ## Background 📄
