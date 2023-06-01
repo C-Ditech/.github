@@ -1,12 +1,74 @@
-## Hi there 👋
+<div align="center">
+  <h1>C-Ditech 🐔</h1>
+</div>
 
-<!--
+![Logo picture]()
 
-**Here are some ideas to get you started:**
+## Background 📄
+C - Ditech is an Android application that aims to detect diseases in chickens through their feces. The application will be able to detect diseases such as Coccidiosis, Healthy, and Salmonella. Information about the disease and how to handle it will be provided in the app. Our team wants to tackle this problem to help farmers detect diseases early and take appropriate measures to prevent further spread and loss.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Features ⚙
+- 🐔 Classification of diseases in chickens
+- 💾 Keep history of detected diseases
+- 🔎 Detect diseased chickens using feces image
+
+## Technology 🏗️
+
+### Machine Learning 🤖
+> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/> </a> 
+<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikitlearn"  height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vscode" width="40" height="40"/> </a>
+<a href="https://colab.research.google.com" target="_blank" rel="noreferrer"> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://kaggle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original-wordmark.svg" alt="kaggle" height="50"/> </a> 
+
+Or if you want to see the detail about model development stuff, please check on [ML repository](https://github.com/C-Ditech/ML)
+
+### Cloud Computing ☁️
+> <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://idolstarastronomer.com/images/cloud_platform.png" alt="GoogleCloudPlatform"  height="40"/> </a> 
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/189295422/f294aa00-838c-11e9-8e27-a1fdc651371f" alt="CloudRun"  height="40"/> </a> 
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://1.bp.blogspot.com/-ldXyw__3o8k/XkTq7ynek6I/AAAAAAAATvQ/BMLEAwGefP8tA9YkpVRlfhj8q01qcDWsQCLcBGAsYHQ/s1600/gcp-bucket.png" alt="CloudStorage"  height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://pluspng.com/img-png/firebase-logo-png-firebase-logo-png-transparent-amp-svg-vector-pluspng-2400x3291.png" alt="firebase" width="25" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vscode" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+
+Or if you want to see the detail about cloud development and architecture, please check on [CC repository](https://github.com/C-Ditech/CC)
+
+### Mobile Development 📱
+> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/kotlin-logo.png" alt="kotlin" width="40" height="40"/> </a>
+<a href="https://developer.android.com/studio/" target="_blank" rel="noreferrer"> <img src="https://logonoid.com/images/android-studio-logo.png" alt="androidstudion" width="40" height="40"/> </a>
+<a href="https://square.github.io/retrofit/" target="_blank" rel="noreferrer"> <img src="https://square.github.io/retrofit/static/icon-square.png" alt="retrofit" width="40" height="40"/> </a> 
+<a href="https://figma.com/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/figma-logo.png" alt="figma" width="25" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+
+Or if you want to see the detail about mobile development, please check on [MD repository](https://github.com/C-Ditech/MD)
+
+## Project Plan 📌
+See the [projects github &rarr;](https://github.com/orgs/C-Ditech/projects/1) for a list of plan and the timeline for this project.
+
+## Dataset 🖼️
+- Poultry Diseases Detection (Kausthub Kannan, 2023) in [Kaggle](https://www.kaggle.com/datasets/kausthubkannan/poultry-diseases-detection)
+
+## Contributing 🤝
+All code contributions - including those of people having commit access - must go through a pull request and be approved by a core developer before being merged. This is to ensure a proper review of all the code. We truly ❤️ pull requests! Feel free to open pull request.
+
+## Security 🛡️
+For security issues, kindly email us at [raihan](mailto:raihanramdani41@yahoo.com) instead of posting a public issue on GitHub or other contributor.
+
+## Code of Conduct ⚖️
+This project has adopted a Code of Conduct that we expect project participants to adhere to. Please read [the code of conduct](../CODE_OF_CONDUCT.md) so that you can understand what actions will and will not be tolerated.
+
+## License ✔️
+This repository is available under the [MIT License](../LICENSE).
+
+## Member 👱‍♂️
+| CapstoneID | Name | Role | Contact |
+| :---: | :---: | :---: | :---: |
+M151DSX2135 | **Alif Fadhlurrahman Hadi** | @MokaChaos
+M286DSX1454 | **Muhammmad Ammar Nabil** | @manabil
+C172DSX2795 | **Raihan Ramdani Hartono** | @raihanramdd
+C172DSX3019 | **David Dovovan M S** |
+A042DKX3909 | **Bagus Karunia Fajar** | @baguskf
+A042DKX4487 | **Bagus Setiawan** | @BagusStn
