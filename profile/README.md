@@ -1,11 +1,6 @@
 <div align="center">
   <h1>C-Ditech 🐔</h1>
-  
-![logo](../assets/logo.png)
-  
 </div>
-
-
 
 ## Background 📄
 C - Ditech is an Android application that aims to detect diseases in chickens through their feces. The application will be able to detect diseases such as Coccidiosis, Healthy, and Salmonella. Information about the disease and how to handle it will be provided in the app. Our team wants to tackle this problem to help farmers detect diseases early and take appropriate measures to prevent further spread and loss.
