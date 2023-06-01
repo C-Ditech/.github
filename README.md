@@ -53,10 +53,10 @@ All code contributions - including those of people having commit access - must g
 For security issues, kindly email us at [raihan &rarr;](mailto:raihanramdani41@yahoo.com) instead of posting a public issue on GitHub or other contributor.
 
 ## Code of Conduct ⚖️
-This project has adopted a Code of Conduct that we expect project participants to adhere to. Please read [the code of conduct &rarr;](../CODE_OF_CONDUCT.md) so that you can understand what actions will and will not be tolerated.
+This project has adopted a Code of Conduct that we expect project participants to adhere to. Please read [the code of conduct &rarr;](./CODE_OF_CONDUCT.md) so that you can understand what actions will and will not be tolerated.
 
 ## License ✔️
-All repositories are available under the [MIT License &rarr;](../LICENSE).
+All repositories are available under the [MIT License &rarr;](./LICENSE).
 
 ## Member 👱‍♂️
 | CapstoneID | Name | Role | Contact |
