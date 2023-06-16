@@ -27,8 +27,7 @@ Or if you want to see the detail about model development stuff, please check on 
 ### Cloud Computing ☁️
 > <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://idolstarastronomer.com/images/cloud_platform.png" alt="GoogleCloudPlatform"  height="40"/> </a>
 <a href="https://www.laravel.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/189295422/f294aa00-838c-11e9-8e27-a1fdc651371f" alt="CloudRun"  height="40"/> </a> 
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://1.bp.blogspot.com/-ldXyw__3o8k/XkTq7ynek6I/AAAAAAAATvQ/BMLEAwGefP8tA9YkpVRlfhj8q01qcDWsQCLcBGAsYHQ/s1600/gcp-bucket.png" alt="CloudStorage"  height="40"/> </a> 
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/189295422/f294aa00-838c-11e9-8e27-a1fdc651371f" alt="CloudRun"  height="40"/> </a>  
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vscode" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
