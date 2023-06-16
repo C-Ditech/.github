@@ -7,7 +7,7 @@ C - Ditech is an Android application that aims to detect diseases in chickens th
 
 ## Features ⚙
 - 🐔 Classification of diseases in chickens
-- 💾 Keep history of detected diseases
+- 📰 Provide articles related to disease
 - 🔎 Detect diseased chickens using feces image
 
 ## Technology 🏗️
@@ -28,7 +28,6 @@ Or if you want to see the detail about model development stuff, please check on 
 > <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://idolstarastronomer.com/images/cloud_platform.png" alt="GoogleCloudPlatform"  height="40"/> </a> 
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/189295422/f294aa00-838c-11e9-8e27-a1fdc651371f" alt="CloudRun"  height="40"/> </a> 
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://1.bp.blogspot.com/-ldXyw__3o8k/XkTq7ynek6I/AAAAAAAATvQ/BMLEAwGefP8tA9YkpVRlfhj8q01qcDWsQCLcBGAsYHQ/s1600/gcp-bucket.png" alt="CloudStorage"  height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://pluspng.com/img-png/firebase-logo-png-firebase-logo-png-transparent-amp-svg-vector-pluspng-2400x3291.png" alt="firebase" width="25" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vscode" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
